@@ -1,7 +1,7 @@
 #include<stdio.h>
  
 int main(){
-printf("Rishabh\n\n");
+printf("Ansh\n\n");
 return 0;
 }
 
